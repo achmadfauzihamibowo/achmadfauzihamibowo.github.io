@@ -7,41 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://achmadfauzihamibowo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mutiara Tetaplah Mutiara</title>
-      <link>https://achmadfauzihamibowo.github.io/posts/2020/09/mutiara-tetaplah-mutiara/</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <link>https://achmadfauzihamibowo.github.io/posts/2020/04/mutiara-tetaplah-mutiara/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://achmadfauzihamibowo.github.io/posts/2020/09/mutiara-tetaplah-mutiara/</guid>
+      <guid>https://achmadfauzihamibowo.github.io/posts/2020/04/mutiara-tetaplah-mutiara/</guid>
       <description>Gue inget temen gue pernah bicara gitu ke gue, disaat gue gagal SNMPTN dan SBMPTN waktu abis lulus SMA.
  “Dimanapun Mutiara berada, dia tetap akan menjadi Mutiara, sekalipun dia berada di lautan terdalam, sekalipun dia berada dalam lumpur, Mutiara tetaplah Mutiara, dia akan selalu dicari, maka jadilah seperti Mutiara, yang akan selalu dicari orang dimanapun dia berada.”
  Dari situ titik balik hidup gue, gue berubah dari yang males menjadi rajin, gue berubah, gue berusaha untuk menjadi pribadi yang lebih baik, 1 tahun gue di Universitas Swasta gue jadiin pelajaran untuk berubah jadi lebih baik.</description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://achmadfauzihamibowo.github.io/posts/2014/09/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Tuhan Tidak (Pernah) Bosan</title>
+      <link>https://achmadfauzihamibowo.github.io/posts/2020/06/tuhan-tidak-pernah-bosan/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://achmadfauzihamibowo.github.io/posts/2014/09/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>https://achmadfauzihamibowo.github.io/posts/2020/06/tuhan-tidak-pernah-bosan/</guid>
+      <description>Pagi ini, saya melihat video sekaligus artikel dari Mas Rianto Astono, dalam video di kanal YouTube-nya yang berjudul Jangan Bosan.
+Ada hal yang bagi saya menarik karena akan saya bahas dengan keyakinan dan pengalaman yang saya alami selama ini, sebuah proses panjang bagaimana saya bisa berpikir “Ternyata saya sanggup sampai titik ini” dan bagaimana pandangan saya terhadap bagaimana saya menganggap do’a sama dan harus sejalan dengan usaha, Ikhtiar sekaligus Tawakkal, sekaligus membahas konsep dari menerima segala yang ada sesuai dengan perspektif yang saya pelajari dari falsafah Jawa, dari perspektif saya lho ini ya.</description>
     </item>
     
     <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://achmadfauzihamibowo.github.io/posts/2014/03/migrate-to-hugo-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Cara install Ubuntu Dual Boot Windows 10 dengan Wubi</title>
+      <link>https://achmadfauzihamibowo.github.io/posts/2018/07/cara-install-ubuntu-dual-boot-windows-10-dengan-wubi/</link>
+      <pubDate>Mon, 23 Jul 2018 12:12:00 -0700</pubDate>
       
-      <guid>https://achmadfauzihamibowo.github.io/posts/2014/03/migrate-to-hugo-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
-▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>https://achmadfauzihamibowo.github.io/posts/2018/07/cara-install-ubuntu-dual-boot-windows-10-dengan-wubi/</guid>
+      <description>Baik, kali ini kita akan mencoba menginstall Ubuntu dengan Wubi, kalau ada yang belum tahu Wubi itu apa, Wubi adalah salah satu tools untuk menginstall Ubuntu dengan mudah melalui Windows tanpa harus melakukan repartisi, cocok untuk pemula saat bermain Ubuntu Linux.
+Wubi sendiri adalah akronim dari Windows-based Ubuntu Installer jadi ini memang tools yang diperuntukan untuk pengguna Windows! Sebenarnya Wubi ini sendiri sudah menjadi tools yang deprecated dari Ubuntu secara resmi, tetapi ada seorang pengembang di GitHub yang mengembangan kembali tools ini agar bisa dipergunakan untuk menginstall Ubuntu rilis terbaru (berserta flavor atau turunannya)</description>
+    </item>
+    
+    <item>
+      <title>MartView eBooks Reader</title>
+      <link>https://achmadfauzihamibowo.github.io/posts/2018/05/martview-ebooks-reader/</link>
+      <pubDate>Thu, 24 May 2018 05:37:00 -0700</pubDate>
+      
+      <guid>https://achmadfauzihamibowo.github.io/posts/2018/05/martview-ebooks-reader/</guid>
+      <description>Hai gaes, udah lama banget ga update blog ini, kali ini gue mau ngebagiin aplikasi nih gaes, aplikasi ini tuh fungsinya buat baca pdf, cliche? nggak dong! aplikasi ini tuh bisa baca pdf serasa buku asli lho! Nama dari aplikasi ini adalah MartView
+MartView adalah sebuah aplikasi pembuka file .mart dan .pdf dengan tampilan seperti saat lo sedang membuka sebuah buku nyata, serius, ini beneran kayak asli. Aplikasi ini menayangkan kedua file tersebut dengan tampilan yang mengesankan dan tergolong sangat menarik, lebih menarik dari aplikasi sejenis.</description>
+    </item>
+    
+    <item>
+      <title>Anti-AdBlock Killer</title>
+      <link>https://achmadfauzihamibowo.github.io/posts/2017/08/anti-adblock-killer/</link>
+      <pubDate>Sat, 12 Aug 2017 18:45:00 -0700</pubDate>
+      
+      <guid>https://achmadfauzihamibowo.github.io/posts/2017/08/anti-adblock-killer/</guid>
+      <description>Adverstisment Blocker atau disingkat AdBlock adalah ekstensi untuk web browser (Google Chrome, Mozilla Firefox, dsb) yang memungkinkan client memblokir segala bentuk iklan visual pada situs yang dikunjungi. Berseluncur tanpa iklan yang mengganggu. Contoh jenis adblock yang dikenal adalah: AdBlock dan AdBlockPlus.
+Sebagian publisher dan blogger ada yang tidak memperbolehkan AdBlock, entah karena merugikan karena memblokir iklan mereka, ataupun karena berkurangnya omset yang diterima dari publisher iklan. Untuk mengakali ini mereka memasang AdBlock Killer, script yang memungkinkan client tidak dapat mengakses situs bila AdBlock aktif (kata lain: AdBlock harus dinonaktifkan terlebih dahulu).</description>
+    </item>
+    
+    <item>
+      <title>Cara Membuat Installer Repack</title>
+      <link>https://achmadfauzihamibowo.github.io/posts/2016/08/cara-membuat-installer-repack/</link>
+      <pubDate>Thu, 04 Aug 2016 01:01:00 -0700</pubDate>
+      
+      <guid>https://achmadfauzihamibowo.github.io/posts/2016/08/cara-membuat-installer-repack/</guid>
+      <description>Assallamualaikum.wr.wb
+Hai guys, ga kerasa udah lama banget gue ga post, kali ini gue mau post random aja, ya kali ini tutorial yang mau gue bahas. Nah kali ini gue mau bahas cara bikin installer game yang biasa kalian download di internet, mungkin kalian udah paham betul sama nama CorePack BlackBox FitGirl Reloaded kan? pasti tau lah kalian ga mungkin nggak hehe. Nah sekarang kita mulai Cara Membuat Installer Repack Seperti CorePack</description>
+    </item>
+    
+    <item>
+      <title>Cara Membuat Mind Mapping</title>
+      <link>https://achmadfauzihamibowo.github.io/posts/2015/07/cara-membuat-mind-mapping/</link>
+      <pubDate>Wed, 22 Jul 2015 05:42:00 -0700</pubDate>
+      
+      <guid>https://achmadfauzihamibowo.github.io/posts/2015/07/cara-membuat-mind-mapping/</guid>
+      <description>Tahukah kalian tentang Mind Mapping? Baik disini kita jelaskan terlebih dahulu ya! Sebelumnya tulisan ini disadur dari BacaKilat.com. Kita mulai aja ya, Otak kita tidak didesain untuk menghafal catatan linear alias runtut ke bawah. mencatat dengan metode mindmapping akan membuat otak kanan dan kiri bekerjasama.
+Mindmapping adalah sebuah cara baru untuk mencatat ide maupun gagasan pikiran. Metode ini dipopulerkan oleh Tony Buzan, seorang penulis dan bintang televisi terkenal dari Inggris.</description>
     </item>
     
     <item>
@@ -53,30 +92,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>Perkenalkan, nama saya Achmad Fauzi Hamibowo, saat ini sedang sibuk dalam dunia perkuliahan, menjalani hobi, salah satunya nge-podcast, serta sedang menjalankan sebuah startup bersama teman saya.
 Biasanya saya ini nge-blog cuma sekarang mau coba buat di platform ini, sekaligus branding biar bagus hehe 😅
 Saat ini saya menempuh jenjang perkuliahan di Universitas Negeri Jakarta di Fakultas Ilmu Pendidikan tepatnya di jurusan Manajemen Pendidikan, doakan agar cepat lulus ya! 🙏</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://achmadfauzihamibowo.github.io/posts/2014/04/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://achmadfauzihamibowo.github.io/posts/2014/04/hugo-template-primer/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://achmadfauzihamibowo.github.io/posts/2014/04/getting-started-with-hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://achmadfauzihamibowo.github.io/posts/2014/04/getting-started-with-hugo/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
     </item>
     
   </channel>

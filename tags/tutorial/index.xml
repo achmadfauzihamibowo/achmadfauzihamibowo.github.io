@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Achmad Fauzi Journals 📝</title>
+    <link>https://achmadfauzihamibowo.github.io/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Achmad Fauzi Journals 📝</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 23 Jul 2018 12:12:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://achmadfauzihamibowo.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cara install Ubuntu Dual Boot Windows 10 dengan Wubi</title>
+      <link>https://achmadfauzihamibowo.github.io/posts/2018/07/cara-install-ubuntu-dual-boot-windows-10-dengan-wubi/</link>
+      <pubDate>Mon, 23 Jul 2018 12:12:00 -0700</pubDate>
+      
+      <guid>https://achmadfauzihamibowo.github.io/posts/2018/07/cara-install-ubuntu-dual-boot-windows-10-dengan-wubi/</guid>
+      <description>Baik, kali ini kita akan mencoba menginstall Ubuntu dengan Wubi, kalau ada yang belum tahu Wubi itu apa, Wubi adalah salah satu tools untuk menginstall Ubuntu dengan mudah melalui Windows tanpa harus melakukan repartisi, cocok untuk pemula saat bermain Ubuntu Linux.
+Wubi sendiri adalah akronim dari Windows-based Ubuntu Installer jadi ini memang tools yang diperuntukan untuk pengguna Windows! Sebenarnya Wubi ini sendiri sudah menjadi tools yang deprecated dari Ubuntu secara resmi, tetapi ada seorang pengembang di GitHub yang mengembangan kembali tools ini agar bisa dipergunakan untuk menginstall Ubuntu rilis terbaru (berserta flavor atau turunannya)</description>
+    </item>
+    
+    <item>
+      <title>MartView eBooks Reader</title>
+      <link>https://achmadfauzihamibowo.github.io/posts/2018/05/martview-ebooks-reader/</link>
+      <pubDate>Thu, 24 May 2018 05:37:00 -0700</pubDate>
+      
+      <guid>https://achmadfauzihamibowo.github.io/posts/2018/05/martview-ebooks-reader/</guid>
+      <description>Hai gaes, udah lama banget ga update blog ini, kali ini gue mau ngebagiin aplikasi nih gaes, aplikasi ini tuh fungsinya buat baca pdf, cliche? nggak dong! aplikasi ini tuh bisa baca pdf serasa buku asli lho! Nama dari aplikasi ini adalah MartView
+MartView adalah sebuah aplikasi pembuka file .mart dan .pdf dengan tampilan seperti saat lo sedang membuka sebuah buku nyata, serius, ini beneran kayak asli. Aplikasi ini menayangkan kedua file tersebut dengan tampilan yang mengesankan dan tergolong sangat menarik, lebih menarik dari aplikasi sejenis.</description>
+    </item>
+    
+    <item>
+      <title>Anti-AdBlock Killer</title>
+      <link>https://achmadfauzihamibowo.github.io/posts/2017/08/anti-adblock-killer/</link>
+      <pubDate>Sat, 12 Aug 2017 18:45:00 -0700</pubDate>
+      
+      <guid>https://achmadfauzihamibowo.github.io/posts/2017/08/anti-adblock-killer/</guid>
+      <description>Adverstisment Blocker atau disingkat AdBlock adalah ekstensi untuk web browser (Google Chrome, Mozilla Firefox, dsb) yang memungkinkan client memblokir segala bentuk iklan visual pada situs yang dikunjungi. Berseluncur tanpa iklan yang mengganggu. Contoh jenis adblock yang dikenal adalah: AdBlock dan AdBlockPlus.
+Sebagian publisher dan blogger ada yang tidak memperbolehkan AdBlock, entah karena merugikan karena memblokir iklan mereka, ataupun karena berkurangnya omset yang diterima dari publisher iklan. Untuk mengakali ini mereka memasang AdBlock Killer, script yang memungkinkan client tidak dapat mengakses situs bila AdBlock aktif (kata lain: AdBlock harus dinonaktifkan terlebih dahulu).</description>
+    </item>
+    
+    <item>
+      <title>Cara Membuat Installer Repack</title>
+      <link>https://achmadfauzihamibowo.github.io/posts/2016/08/cara-membuat-installer-repack/</link>
+      <pubDate>Thu, 04 Aug 2016 01:01:00 -0700</pubDate>
+      
+      <guid>https://achmadfauzihamibowo.github.io/posts/2016/08/cara-membuat-installer-repack/</guid>
+      <description>Assallamualaikum.wr.wb
+Hai guys, ga kerasa udah lama banget gue ga post, kali ini gue mau post random aja, ya kali ini tutorial yang mau gue bahas. Nah kali ini gue mau bahas cara bikin installer game yang biasa kalian download di internet, mungkin kalian udah paham betul sama nama CorePack BlackBox FitGirl Reloaded kan? pasti tau lah kalian ga mungkin nggak hehe. Nah sekarang kita mulai Cara Membuat Installer Repack Seperti CorePack</description>
+    </item>
+    
+  </channel>
+</rss>
