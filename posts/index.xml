@@ -6,8 +6,207 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://achmadfauzihamibowo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Among Us Private Server</title>
+            <link>https://achmadfauzihamibowo.github.io/posts/2020/09/among-us-private-server/</link>
+            <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://achmadfauzihamibowo.github.io/posts/2020/09/among-us-private-server/</guid>
+            <description>Halo! Kali ini gue mau memberikan tutorial bermain Among Us di Private Server!
+Caranya nggak terlalu sulit kok!
+Cara Download Among Us di PC Untuk kalian yang ingin membeli versi PC di Steam, kalian cukup merogoh kocek yang tertera dibawah ini!
+Among Us on Steam Kalau kalian lagi nggak ada duit, tapi tetap mau main, ada sih bisa kalian download sendiri, tapi ya kalau ada duit sih bagusnya kalian beli ya!</description>
+            <content type="html"><![CDATA[<p>Halo! Kali ini gue mau memberikan tutorial bermain <strong>Among Us</strong> di <strong>Private Server</strong>!</p>
+<p>Caranya nggak terlalu sulit kok!</p>
+<h2 id="cara-download-among-us-di-pc">Cara Download Among Us di PC</h2>
+<p>Untuk kalian yang ingin membeli versi PC di Steam, kalian cukup merogoh kocek yang tertera dibawah ini!</p>
+<p><a href="https://store.steampowered.com/app/945360/Among_Us/">Among Us on Steam</a>
+
+    <img src="https://i.ibb.co/jJzZ6cT/Screenshot-4.png"  alt="Among Us on Steam"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+<p>Kalau kalian lagi nggak ada duit, tapi tetap mau main, ada sih bisa kalian download sendiri, tapi ya kalau ada duit sih bagusnya kalian beli ya!</p>
+<p>Download di link berikut ini! <a href="https://online-fix.me/games/shooter/16450-among-us-po-seti.html">Download Among Us</a> daftar aja pakai Akun Google atau Facebook kalian!</p>
+<p>Setelah download, buka game Among Us seperti biasa, jalan kan <strong>Steam</strong> juga!</p>
+
+    <img src="https://i.ibb.co/bK6k9Vk/Screenshot-5.png"  alt="Among Us on Steam"  class="center"  style="border-radius: 8px;"  />
+
+
+<p>Tinggal kalian run saja Among Us nya ya!</p>
+<h2 id="cara-membuat-network-dan-install-zerotier-one-di-pc-dan-android">Cara Membuat Network dan Install ZeroTier One di PC dan Android</h2>
+<p>Untuk menjalankan private server ini, kita akan menggunakan tools LAN Over Internet, yaitu ZeroTier!
+Bagaimana cara menggunakannya?</p>
+<h3 id="membuat-jaringan-zerotier">Membuat jaringan ZeroTier</h3>
+<ol>
+<li>
+<p>Buat akun gratis di <a href="https://my.zerotier.com">https://my.zerotier.com</a>
+
+    <img src="https://www.stratospherix.com/img/guides/vpn/vpnsetup_01.jpg"  alt="Create Account"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+</li>
+<li>
+<p>Pada halaman &lsquo;Jaringan&rsquo;, klik &lsquo;Buat Jaringan Baru&rsquo;.
+
+    <img src="https://www.stratospherix.com/img/guides/vpn/vpnsetup_02.jpg"  alt="Create Network"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+</li>
+<li>
+<p>Jaringan akan dibuat dengan nama acak. Klik di atasnya untuk mengubah pengaturannya.
+
+    <img src="https://www.stratospherix.com/img/guides/vpn/vpnsetup_03.jpg"  alt="Modify Network"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+</li>
+<li>
+<p>Layar Anda harus seperti gambar di atas. &lsquo;ID Jaringan&rsquo; akan digunakan nanti dan secara unik mengidentifikasi jaringan ini.</p>
+<p>a. Anda dapat mengubah Nama Pendek menjadi apa pun yang Anda inginkan.<br>
+b. Pastikan &ldquo;Sertifikat (Jaringan Pribadi) &lsquo;dipilih, karena ini berarti hanya perangkat yang Anda izinkan yang dapat tersambung ke jaringan ini.</p>
+</li>
+<li>
+<p>Selanjutnya yaitu menetapkan rentang alamat IP untuk jaringan ini. Ini akan memungkinkan perangkat untuk mengidentifikasi satu sama lain saat mereka berkomunikasi.</p>
+</li>
+</ol>
+
+    <img src="https://www.stratospherix.com/img/guides/vpn/vpnsetup_04.jpg"  alt="Modify Network"  class="center"  style="border-radius: 8px;"  />
+
+
+<p>Centang kotak &ldquo;Auto-Assign from Range&rdquo;.</p>
+<p>Pastikan tab &ldquo;Easy&rdquo; dipilih.</p>
+<p>Pilih salah satu rentang alamat dari kisi. Dalam kasus ini saya telah menggunakan yang pertama &ldquo;10.147.17. *&rdquo;. dan ini bebas kalian pilih!</p>
+<p>Itu dia. Jaringan kamu telah dibuat.</p>
+<h3 id="cara-instalasi-zerotier-di-pc">Cara Instalasi ZeroTier di PC</h3>
+<p>Kalian bisa lihat guide terlampir ini ya! (capek soalnya kalau satu-satu di post wkwk)</p>
+<p><a href="https://www.stratospherix.com/support/setupvpn_02.php">https://www.stratospherix.com/support/setupvpn_02.php</a></p>
+<h4 id="zerotier-downloadhttpswwwzerotiercomdownload"><a href="https://www.zerotier.com/download/">ZeroTier Download</a></h4>
+<h3 id="cara-instalasi-zerotier-di-android">Cara Instalasi ZeroTier di Android</h3>
+<p>Tutorial ini hampir sama walaupun ditulis di iOS, kalian tinggal download ZeroTier di PlayStore dan ikuti cara di link terlampir ini!</p>
+<p><a href="https://www.stratospherix.com/support/setupvpn_03.php">https://www.stratospherix.com/support/setupvpn_03.php</a></p>
+<h2 id="cara-membuat-private-server-among-us">Cara Membuat Private Server Among Us</h2>
+<p>Untuk menjalankan private server di Among Us, kita akan menggunakan tools yang bernama <strong>Impostor</strong> di GitHub! Tapi sebelum menjalankan server kalian harus membuka portnya terlebih dahulu!</p>
+<h3 id="membuka-port-untuk-private-server">Membuka Port untuk Private Server</h3>
+<ol>
+<li>
+<p>Buka <strong>Port 22023</strong> di Windows Defender, buat exception ya! caranya gimana?</p>
+<p>a. Cari <strong>Windows Defender Firewall</strong> (seperti gambar ini!)
+
+    <img src="https://i.ibb.co/g3PZHS6/Screenshot-6.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+<p>b. Lalu kalian pilih <strong>Advance Settings</strong>
+
+    <img src="https://i.ibb.co/85T3k7G/Screenshot-7.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+</li>
+<li>
+<p>Lanjutkan sesuai perintah di gambar ini
+
+    <img src="https://i.ibb.co/GkkZSHg/Screenshot-8.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+</li>
+<li>
+<p>Kemudian pilih yang <strong>Port</strong> lalu <strong>Next</strong>
+
+    <img src="https://i.ibb.co/tLJS2WS/Screenshot-9.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+</li>
+<li>
+<p>Ikuti seperti gambar berikut!
+
+    <img src="https://i.ibb.co/nRLqq4F/Screenshot-10.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+</li>
+<li>
+<p>Pilih saja <strong>Allow the connection</strong>
+
+    <img src="https://i.ibb.co/8rKHBqG/Screenshot-11.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+</li>
+<li>
+<p>Samakan saja sesuai gambar ini!
+
+    <img src="https://i.ibb.co/cY5Kygw/Screenshot-12.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+</li>
+<li>
+<p>Terakhir namakan saja Among Us Private Server dan Finish!
+
+    <img src="https://i.ibb.co/091wpSK/Screenshot-13.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+</li>
+</ol>
+<h3 id="menjalankan-private-server">Menjalankan Private Server</h3>
+<ol>
+<li>Download Server dari Repo GitHub ini! <strong><a href="https://github.com/AeonLucid/Impostor/releases">Impostor</a></strong>
+
+    <img src="https://i.ibb.co/sQW80q1/Screenshot-14.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</li>
+<li>Setelah kalian download dan extract, jalankan servernya dengan run file Impostor.Server.exe
+
+    <img src="https://i.ibb.co/3d8tcLY/Screenshot-15.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</li>
+<li>Jika muncul window berikut, kalian berhasil menjalankan Private Server!
+
+    <img src="https://i.ibb.co/rG5nLrk/Screenshot-16.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</li>
+</ol>
+<h3 id="cara-setup-private-server-di-client">Cara Setup Private Server di Client</h3>
+<ol>
+<li>Download Client dari Repo GitHub ini! <strong><a href="https://github.com/AeonLucid/Impostor/releases">Impostor</a></strong>
+
+    <img src="https://i.ibb.co/sQW80q1/Screenshot-14.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</li>
+<li>Jalankan file Impostor.Client.exe
+
+    <img src="https://i.ibb.co/xXNF232/Screenshot-17.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</li>
+<li>Ganti IP Address dengan IP Address ZeroTier yang berada di Host Server! Jangan lupa untuk di Save!
+
+    <img src="https://i.ibb.co/qFJjw9Q/Screenshot-18.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</li>
+<li>Masuk ke game Among Us lalu kamu akan melihat nama server akan berganti menjadi <strong>Impostor</strong>
+
+    <img src="https://github.com/KaitoRyouga/among-us-private/blob/master/image/3.png?raw=true"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</li>
+</ol>
+<p>Selesai!</p>
+<p>Catatan: kalau kamu mau kembali ke server normal dari Innersloth, kamu tinggal ganti saja servernya ke Asia, Europa atau North America!</p>
+<h3 id="cara-menggunakan-private-server-di-android">Cara Menggunakan Private Server di Android</h3>
+<p>Setelah kalian install ZeroTier di host server PC kalian, lalu kalian telah masuk ke Private Server kalian, langkah selanjutnya adalah merubah file <strong>regionInfo.dat</strong></p>
+<p>Dalam file ini terdapat IP Address untuk masuk ke Host Server kalian!</p>
+<p>Cara termudahnya yaitu setelah kalian menggunakan Impostor Client, kalian cari file regionInfo.dat di <code>C:\Users\Username PC kalian\AppData\LocalLow\Innersloth\Among Us</code>
+
+    <img src="https://i.ibb.co/cDtx2VJ/Screenshot-19.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
+
+</p>
+<p>Selanjutnya kalian copy file regionInfo.dat tadi ke Android kalian, yaitu di folder:</p>
+<p><code>Android/data/com.innersloth.spacemafia/files/regionInfo.dat</code></p>
+<p>Biasanya itu adanya di <strong>Internal Storage</strong> kalian ya!</p>
+<p>Sekian saja tutorial singkatnya, ada beberapa hal yang harus kalian perhatikan!</p>
+<h3 id="penting-dan-harus-diperhatikan">Penting dan Harus Diperhatikan!</h3>
+<p>Untuk bisa crossplay Android dengan PC, kalian harus menggunakan file <code>regionInfo.dat</code> yang sama!</p>
+<p>PC dan Android harus terkoneksi dengan Network ZeroTier yang sama!</p>
+<p>Kalau ada pertanyaan silakan ditanyakan ya di kolom komentar dibawah!</p>
+]]></content>
+        </item>
         
         <item>
             <title>Mutiara Tetaplah Mutiara</title>
