@@ -193,7 +193,7 @@ b. Pastikan &ldquo;Sertifikat (Jaringan Pribadi) &lsquo;dipilih, karena ini bera
 <h3 id="cara-menggunakan-private-server-di-android">Cara Menggunakan Private Server di Android</h3>
 <p>Setelah kalian install ZeroTier di host server PC kalian, lalu kalian telah masuk ke Private Server kalian, langkah selanjutnya adalah merubah file <strong>regionInfo.dat</strong></p>
 <p>Dalam file ini terdapat IP Address untuk masuk ke Host Server kalian!</p>
-<p>Cara termudahnya yaitu setelah kalian menggunakan Impostor Client, kalian cari file regionInfo.dat di <code>C:\Users\Username PC kalian\AppData\LocalLow\Innersloth\Among Us</code>
+<p>Cara termudahnya yaitu setelah kalian menggunakan Impostor Client, kalian cari file regionInfo.dat di <code>C:\Users\Username PC kalian\AppData\LocalLow\Innersloth\Among Us</code> atau bisa juga <code>%AppData%\LocalLow\Innersloth\Among Us</code> 
 
     <img src="https://i.ibb.co/cDtx2VJ/Screenshot-19.png"  alt="Defender Firewall"  class="center"  style="border-radius: 8px;"  />
 
