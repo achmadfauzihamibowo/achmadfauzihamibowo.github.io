@@ -214,6 +214,142 @@ b. Pastikan &ldquo;Sertifikat (Jaringan Pribadi) &lsquo;dipilih, karena ini bera
         </item>
         
         <item>
+            <title>Tutorial Grand Theft Auto IV Multiplayer 2022</title>
+            <link>https://achmadfauzihamibowo.github.io/posts/2020/09/tutorial-grand-theft-auto-iv-multiplayer-2022/</link>
+            <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://achmadfauzihamibowo.github.io/posts/2020/09/tutorial-grand-theft-auto-iv-multiplayer-2022/</guid>
+            <description>Tutorial GTA IV Multiplayer 2022 Pertama, kalian harus memiliki GTA IV terbaru, untuk versi resmi bisa kalian beli melalui platform Steam atau melalui P2P Release (Download menggunakan qBittorent)
+Kemudian langkah selanjutnya adalah melakukan downgrade versi GTA IV versi 1.2.0.43 ke versi lawas yang masih memiliki multiplayer, di versi terbaru multiplayer sudah di disable sehingga dibutuhkan downgrade untuk bermain mode multiplayer ke GTA IV versi 1.0.7.0-1.0.8.0
+Tutorial Downgrade Versi Terbaru (Dukungan MP &amp;amp; Mod) Tutorial dibuat oleh catmackaroo silakan untuk melihat versi asli tutorial ini.</description>
+            <content type="html"><![CDATA[<h1 id="tutorial-gta-iv-multiplayer-2022">Tutorial GTA IV Multiplayer 2022</h1>
+<p><img src="https://telegra.ph/file/5e8cbdea60a726b611075.png" alt="GTAIV"></p>
+<p>Pertama, kalian harus memiliki GTA IV terbaru, untuk versi resmi bisa kalian beli melalui platform <a href="https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/">Steam</a> atau melalui <a href="https://cdn.discordapp.com/attachments/793346700664242256/793351837809901578/grand-theft-auto-iv-by-xatab.torrent">P2P Release</a> (Download menggunakan <a href="https://www.qbittorrent.org/download.php">qBittorent</a>)</p>
+<p>Kemudian langkah selanjutnya adalah melakukan downgrade versi GTA IV versi 1.2.0.43 ke versi lawas yang masih memiliki multiplayer, di versi terbaru <em>multiplayer sudah di disable</em> sehingga dibutuhkan downgrade untuk bermain mode multiplayer ke <strong>GTA IV versi 1.0.7.0-1.0.8.0</strong></p>
+<h2 id="tutorial-downgrade-versi-terbaru-dukungan-mp--mod">Tutorial Downgrade Versi Terbaru (Dukungan MP &amp; Mod)</h2>
+<p>Tutorial dibuat oleh <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2438808634"><strong>catmackaroo</strong></a> silakan untuk melihat versi asli tutorial ini.</p>
+<p>Tutorial downgrade versi GTA IV secara mudah, dirancang untuk dukungan multiplayer &amp; modding.</p>
+<p>Pada akhir tutorial ini, kalian akan memiliki hal berikut:</p>
+<ul>
+<li>IV &amp; EFLC dalam folder game yang sama</li>
+<li>Penghapusan dependensi Social Club (untuk bermain offline)</li>
+<li>Kemampuan untuk menjalankan game dari Steam, termasuk dukungan untuk: achievement, overlay, screenshot</li>
+<li>Pengalaman bermain yang optimal, penuh dengan stabilitas kinerja, perbaikan bug, &amp; peningkatan</li>
+</ul>
+<p>Dan banyak lagi&hellip;</p>
+<p><strong>Video</strong></p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/ObvIv5Q-8zU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="catatan">Catatan</h2>
+<p><strong>Folder Sistem</strong></p>
+<p>Folder Sistem seperti Program Files &amp; Program Files (x86) buruk untuk menginstal game kalian karena dapat mencegah kalian untuk mengganti file. Jangan pernah menginstal game kalian di folder sana. Disarankan untuk memindahkan Steam Library Folders kalian ke folder Games langsung di drive kalian. contoh D:/Games</p>
+<p><strong>Anti Virus</strong></p>
+<p>Bahkan setelah sekian lama, masih ada false positives di downgrade ini. Buat pengecualian anti-virus ke tempat game kalian berada, jika tidak, berbagai tools downgrade dapat dihapus.</p>
+<p><em><strong>Jika kalian benar-benar takut dengan file tersebut, unggah saja ke Hybrid Analysis atau VirusTotal.</strong></em></p>
+<h2 id="downgrading">Downgrading</h2>
+<p>Sekarang sudah ada tools yang mudah untuk melakukan downgrade versi GTA IV kalian ke versi 1.0.7.0 maupun 1.0.8.0 menggunakan tools ini. Tools ini dibuat oleh ItsClonkAndre dan versi official nya dapat didownload di <a href="https://gtaforums.com/topic/976691-gta-iv-downgrader/"><strong>GTAForums</strong></a>. Sementara kami membuat versi unofficial yang ditambahkan beberapa mods yang dapat berjalan dengan <a href="https://gitlab.com/GlitchyScripts/xlivelessness/-/releases"><strong>XLiveLessNess</strong></a> yang dibuat oleh <a href="https://glitchyscripts.com/"><strong>Glitchy Scripts</strong></a> sebagai alternative bermain multiplayer GTA IV dengan GFWL.</p>
+<p><img src="https://telegra.ph/file/2176fd9a86f0e96729c5a.png" alt="Downgrade"></p>
+<p>Tutorial yang diberikan oleh catmackaroo diperuntukan untuk <a href="https://gtaconnected.com/downloads/"><strong>GTA Connected</strong></a>, pada tutorial ini kami membuatnya untuk <strong>XLiveLessNess</strong>.</p>
+<p>Versi unofficial dengan <strong>XLiveLessNess</strong> dan perbaikan dukungan mod yang dapat dengan lancar digunakan bisa di download di <a href="https://pixeldrain.com/u/bWG6VV9M"><strong>GTA IV Downgrader Unofficial</strong></a>.</p>
+<h2 id="multiplayer">Multiplayer</h2>
+<p>Setelah melakukan downgrade versi GTA IV, kalian bisa memainkan kembali mode multiplayer yang dihapus oleh Rockstar Games, dengan sedikit bantuan Virtual LAN seperti Radmin VPN, kalian dapat kembali bermain bersama.</p>
+<p>Silakan download <a href="https://www.radmin-vpn.com/"><strong>Radmin VPN</strong></a> untuk dapat bermain bersama di mode LAN GTA IV. (Saat tulisan ini ditulis, XLiveLessNess mode LIVE di GTA IV masih tidak dapat digunakan, dapat diakali dengan menggunakan mode LAN)</p>
+<p><strong>Panduan mulai bermain via LAN</strong></p>
+<ol>
+<li>Buka game GTA IV seperti biasa, disaat masuk game, silakan pencet tombol Home yaitu tombol default GFWL, silakan login seperti gambar berikut</li>
+</ol>
+
+    <img src="https://telegra.ph/file/54e8fa6dec26905754964.png"  alt="MP1"  class="center"  style="border-radius: 8px;"  />
+
+
+<p>Kalian bisa mengganti username nya dengan nama kalian, untuk <strong>Broadcast address</strong> silakan diisi dengan <strong>255.255.255.255:0</strong>, centang Live Enabled dan Auto Login</p>
+<ol start="2">
+<li>Kemudian pilih Network Adapters dan pilih Radmin VPN seperti gambar berikut</li>
+</ol>
+
+    <img src="https://telegra.ph/file/cff066ed7c51b0b866191.png"  alt="MP2"  class="center"  style="border-radius: 8px;"  />
+
+
+<ol start="3">
+<li>Setelah selesai, silakan masuk ke game, disini kalian dapat memilih GTA IV atau EFLC sesuai keinginan kalian</li>
+</ol>
+
+    <img src="https://telegra.ph/file/a0d5cb668fbf18db3e0b6.png"  alt="MP3"  class="center"  style="border-radius: 8px;"  />
+
+
+<ol start="4">
+<li>Jika sudah di dalam game, silakan buka handphone dengan tombol atas di keyboard lalu pilih menu <strong>Multiplayer</strong></li>
+</ol>
+
+    <img src="https://telegra.ph/file/a08faf0dae88ae7fd5c78.png"  alt="MP4"  class="center"  style="border-radius: 8px;"  />
+
+
+<ol start="5">
+<li>Selanjutnya pilih <strong>Player Match</strong></li>
+</ol>
+
+    <img src="https://telegra.ph/file/48cd049af47ad234a8db2.png"  alt="MP5"  class="center"  style="border-radius: 8px;"  />
+
+
+<ol start="6">
+<li>Kemudian pilih mode LAN (XLiveLessNess versi saat tutorial ini ditulis belum dapat menggunakan mode LIVE) mode LAN ini akan memanfaatkan Radmin VPN yang sudah kita gunakan sebelumnya.</li>
+</ol>
+
+    <img src="https://telegra.ph/file/eff737391d63f6d3cc728.png"  alt="MP6"  class="center"  style="border-radius: 8px;"  />
+
+
+<ol start="7">
+<li>Untuk menjadi <strong>Host</strong>, kalian harus memilih menu <strong>Create Match</strong></li>
+</ol>
+
+    <img src="https://telegra.ph/file/43db6307815c5b78e3e65.png"  alt="MP7"  class="center"  style="border-radius: 8px;"  />
+
+
+<ol start="8">
+<li>Disini kalian bisa memilih berbagai mode, Party Mode sayangnya hanya exclusive untuk mode LIVE</li>
+</ol>
+
+    <img src="https://telegra.ph/file/f697779ae4a71e26e6807.png"  alt="MP8"  class="center"  style="border-radius: 8px;"  />
+
+
+<ol start="9">
+<li>Setelah memilih mode kalian bisa memulai mode multiplayer</li>
+</ol>
+
+    <img src="https://telegra.ph/file/acff118f8580b958eeb56.png"  alt="MP9"  class="center"  style="border-radius: 8px;"  />
+
+
+<ol start="10">
+<li>Kalian berhasil menjadi Host, tinggal menunggu teman kalian join.</li>
+</ol>
+
+    <img src="https://telegra.ph/file/f45ba5f792de11df37e87.png"  alt="MP10"  class="center"  style="border-radius: 8px;"  />
+
+
+<p>Untuk menjadi client yang akan bergabung ke lobby yang sudah dibuat Host, caranya mudah.</p>
+<ol>
+<li>Sama seperti cara sebelumnya, bedanya adalah kalian untuk yang ingin bergabung dengan lobby yang sudah dibuat yaitu dengan memilih <strong>Custom Match</strong></li>
+</ol>
+
+    <img src="https://telegra.ph/file/ff18334cd574098316fe2.png"  alt="MP11"  class="center"  style="border-radius: 8px;"  />
+
+
+<ol start="2">
+<li>Selanjutnya kalian tinggal masuk ke Lobby yang sudah ada dengan memilih lobby yang ada dan tekan tombol Enter</li>
+</ol>
+
+    <img src="https://telegra.ph/file/619a57a4a21bdc1df5b8e.png"  alt="MP12"  class="center"  style="border-radius: 8px;"  />
+
+
+<p><strong>Terima Kasih!</strong></p>
+<p><a href="https://www.youtube.com/channel/UCy0L_s2QqabBgOUVCl1fIIA"><strong>Gaming With Buddy Youtube Channel</strong></a></p>
+]]></content>
+        </item>
+        
+        <item>
             <title>Mutiara Tetaplah Mutiara</title>
             <link>https://achmadfauzihamibowo.github.io/posts/2020/04/mutiara-tetaplah-mutiara/</link>
             <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
