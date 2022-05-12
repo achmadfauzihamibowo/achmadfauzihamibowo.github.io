@@ -357,7 +357,7 @@ Wubi sendiri adalah akronim dari Windows-based Ubuntu Installer jadi ini memang 
 <blockquote>
 <p>2. <a href="http://releases.ubuntu.com/18.04/">http://releases.ubuntu.com/18.04/</a></p>
 </blockquote>
-<p><strong>Cara Menginstal Ubuntu Menggunakan WUBI</strong>[1]**<a href=""></a>**</p>
+<p><strong>Cara Menginstal Ubuntu Menggunakan WUBI<a href=""><strong>[1]</strong></a></strong></p>
 <p>Klik dua kali pada WUBI yang di-download dan klik &ldquo;Ya&rdquo; ketika ditanya apakah Anda ingin menjalankannya melalui keamanan Windows.</p>
 <p>Sebuah jendela akan muncul dan akan terlihat seperti image terlampir.</p>
 <p>Untuk menginstal Ubuntu:</p>
@@ -375,7 +375,7 @@ Wubi sendiri adalah akronim dari Windows-based Ubuntu Installer jadi ini memang 
 <hr>
 <p><a href="">[1]</a> <a href="https://www.lifewire.com/wubi-linux-installation-program-2201175">https://www.lifewire.com/wubi-linux-installation-program-2201175</a></p>
 <p><strong>Tutorial Bergambar</strong></p>
-<p><strong>Tahap</strong>** pertama**, pindahkan file installer Wubi kedalam satu folder dengan file *.iso Ubuntu. Jalankan Wubi **_sebagai_****_ Administrator (Run as Administrator)_**</p>
+<p><strong>Tahap</strong>** pertama**, pindahkan file installer Wubi kedalam satu folder dengan file *.iso Ubuntu. Jalankan Wubi <strong><em>sebagai</em>****_ Administrator (Run as Administrator)_</strong></p>
 <p><a href="https://4.bp.blogspot.com/-iDZXPn0DkRE/W1YlJKJws0I/AAAAAAAADIA/4nvM8qKmhkQCMupCbbRZDoLVcNLFkHOQwCLcBGAs/s1600/image005.png"><img src="https://4.bp.blogspot.com/-iDZXPn0DkRE/W1YlJKJws0I/AAAAAAAADIA/4nvM8qKmhkQCMupCbbRZDoLVcNLFkHOQwCLcBGAs/s640/image005.png" alt=""></a></p>
 <p><strong>Tahap kedua</strong> yaitu konfigurasi instalasi Wubi, disini kita bisa memilih tempat dimana Ubuntu akan diinstall, yaitu di **Installation Drive (disarankan tidak ditaruh dengan OS Windows yaitu C:)**lalu ada <strong>Installation size</strong> nah ini adalah alokasi ukuran system yang akan dipergunakan untuk Ubuntu, maksimal mencapai 64 GB (sesuaikan dengan ukuran Harddisk kalian ya!) selebihnya kalian paham kan? Dan setelah mengatur Username dan Password, silakan klik <strong>Install</strong>.</p>
 <p><a href="https://3.bp.blogspot.com/-8XsVOp9H1NM/W1Ylax2qomI/AAAAAAAADIM/XZpH7kiUwR88DIAx8jhtoKvDVKXA-nUygCLcBGAs/s1600/image006.png"><img src="https://3.bp.blogspot.com/-8XsVOp9H1NM/W1Ylax2qomI/AAAAAAAADIM/XZpH7kiUwR88DIAx8jhtoKvDVKXA-nUygCLcBGAs/s1600/image006.png" alt=""></a></p>
@@ -392,7 +392,7 @@ Wubi sendiri adalah akronim dari Windows-based Ubuntu Installer jadi ini memang 
 <p><strong>Cara kedua</strong></p>
 <p>Atau, Anda dapat menjalankan: C:\ubuntu\uninstall-wubi (disesuaikan dengan lokasi kalian menginstall Wubi ya!)</p>
 <p><a href="https://3.bp.blogspot.com/-m71RatZp-JM/W1Yl0RXkZDI/AAAAAAAADIg/VJg1bXgKLwkHrpdbLQ02jQt4E_epJGPpwCLcBGAs/s1600/image011.png"><img src="https://3.bp.blogspot.com/-m71RatZp-JM/W1Yl0RXkZDI/AAAAAAAADIg/VJg1bXgKLwkHrpdbLQ02jQt4E_epJGPpwCLcBGAs/s640/image011.png" alt=""></a></p>
-<p><strong>Tips And Trick</strong>[2]**<img src="" alt="">**</p>
+<p><strong>Tips And Trick<img src="" alt="\[2\]"></strong></p>
 <p><a href="https://www.facebook.com/hashtag/share?source=feed_text">#Share</a><br>
 <a href="https://www.facebook.com/hashtag/trik?source=feed_text">#Trik</a></p>
 <p>Bikin dekstop shortcut untuk boot langsung ke OS lain dalam dualboot / multiboot</p>
